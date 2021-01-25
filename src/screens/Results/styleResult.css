@@ -1,0 +1,57 @@
+h2{
+    color:gray;
+    text-align: left;
+    justify-content: left;
+    font-size: smaller;
+    margin-left:15px;
+}
+img{
+    height:100;
+}
+.imageResult{
+    background: url('../../assets/images/bigone.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+        width: 200px;
+}
+.resultTitle{
+    margin-top:10px;
+    justify-content: left;
+}
+.p2 {
+    background-color:#6366f1;
+     border: none;
+     color:white;
+     padding: 5px 5px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     margin: 2px 1px;
+     cursor: pointer;
+     border-radius: 16px;
+     font-size:small;
+     font-weight:bold
+   }
+   .playAgain{
+        display:flex; flex-direction:row;
+        justify-content: space-between;
+        padding: 25px;
+        align-items: center;
+   }
+   
+  .p3 {
+    background-color:#3730a3;
+    
+    border: none;
+     color: white;
+     padding: 5px 5px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     margin: 4px 2px;
+     cursor: pointer;
+     border-radius: 16px;
+     font-size:small;
+   }
+   
